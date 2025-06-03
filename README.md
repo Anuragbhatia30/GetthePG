@@ -1,5 +1,4 @@
-# GetthePG
-# 🏠 Get the PG – PG & Flat Finder Web App
+# 🏠 GetthePG – PG & Flat Finder Web App
 
 A full-stack web application to help students and working professionals find verified PGs and flats, with features like location-based search, filtering, and broker listings.
 
@@ -23,10 +22,3 @@ A full-stack web application to help students and working professionals find ver
 - 🌐 Responsive UI
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/Get-the-PG.git
-cd Get-the-PG
